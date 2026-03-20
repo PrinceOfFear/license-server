@@ -3,10 +3,15 @@
   "system_message": "",
   "users": [
     {
-      "username": "testuser",
+      "username": "prince",
+      "display_name": "naoseiler1",
+      "password_hash": "5a0f7316c7d5633025be46e5a38d4ef25fade314a391b2581422e0a4c412ba70",
+      "plan": "premium",
       "active": true,
-      "created_at": 1773999248,
-      "expires_at": 0
+      "status": "active",
+      "expires_at": 0,
+      "hardware_id": "",
+      "created_at": 1773999423
     }
   ]
 }
