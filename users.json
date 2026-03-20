@@ -23,6 +23,17 @@
       "expires_at": 1774016245,
       "hardware_id": "",
       "created_at": 1774009031
+    },
+    {
+      "username": "teste3",
+      "display_name": "teste3",
+      "password_hash": "5a0f7316c7d5633025be46e5a38d4ef25fade314a391b2581422e0a4c412ba70",
+      "plan": "premium",
+      "active": true,
+      "status": "active",
+      "expires_at": 1774013985,
+      "hardware_id": "C75E392637FD36FDB399FCFB",
+      "created_at": 1774010364
     }
   ]
 }
