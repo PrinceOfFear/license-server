@@ -19,6 +19,15 @@
       "expires_at": 1805527171,
       "hardware_id": "",
       "created_at": 1773991171
+    },
+    {
+      "key": "PRINCE-338B-FE73-2596",
+      "user_name": "nicolas",
+      "plan": "premium",
+      "active": true,
+      "expires_at": 1776584880,
+      "hardware_id": "",
+      "created_at": 1773992880
     }
   ]
 }
