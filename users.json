@@ -1,5 +1,12 @@
 {
   "system_active": true,
   "system_message": "",
-  "users": []
+  "users": [
+    {
+      "username": "testuser",
+      "active": true,
+      "created_at": 1773999248,
+      "expires_at": 0
+    }
+  ]
 }
