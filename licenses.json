@@ -1,0 +1,24 @@
+{
+  "system_active": true,
+  "system_message": "Sistema desativado temporariamente para manutencao.",
+  "licenses": [
+    {
+      "key": "PRINCE-TEST-0000-0001",
+      "user_name": "Admin Test",
+      "plan": "premium",
+      "active": true,
+      "expires_at": 0,
+      "hardware_id": "",
+      "created_at": 1742454000
+    },
+    {
+      "key": "PRINCE-84D8-53FE-4BCD",
+      "user_name": "Prince",
+      "plan": "premium",
+      "active": true,
+      "expires_at": 1805527171,
+      "hardware_id": "",
+      "created_at": 1773991171
+    }
+  ]
+}
