@@ -34,6 +34,17 @@
       "expires_at": 1774013985,
       "hardware_id": "C75E392637FD36FDB399FCFB",
       "created_at": 1774010364
+    },
+    {
+      "username": "mickylisboa",
+      "display_name": "mickylisboa",
+      "password_hash": "1d151294b139f941eaecc00b203d5f56e473229d5090dd63b029f45d902ccc51",
+      "plan": "premium",
+      "active": true,
+      "status": "active",
+      "expires_at": 1774402332,
+      "hardware_id": "F15C21C4734A0B2B5EBDC426",
+      "created_at": 1774315873
     }
   ]
 }
